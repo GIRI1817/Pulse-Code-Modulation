@@ -1,3 +1,6 @@
+# NAME : GIRIDHARAN U
+# REG NO : 212224060080
+
 # Pulse-Code-Modulation
 # Aim 
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
